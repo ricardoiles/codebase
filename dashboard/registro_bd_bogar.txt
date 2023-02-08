@@ -1,0 +1,13 @@
+BASES DE DATOS:
+PAGINA: bogar_index.php
+Tablas
+1. hero_index
+2. info_bogar_index
+3. user
+4. colaboraciones_video
+5. musica
+
+PAGINA: sobre_mi.php
+1. hero_sobre_mi
+2. sobre_mi
+3. storytelling
